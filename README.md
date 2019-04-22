@@ -11,12 +11,10 @@
 <img align="left" height ="500" src="https://raw.githubusercontent.com/MgeeeeK/WritoText/master/screenshots/5.png">
 
 ---
-
 **TODO**
 - [x] Working App
 - [ ] Refactor
 - [ ] Handle more than one images; 
 - [ ] Use custom tflite model
 - [ ] Add different languages
-
 ---
