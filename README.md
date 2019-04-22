@@ -17,6 +17,6 @@
 - [ ] Refactor
 - [ ] Handle more than one images and documents 
 - [ ] add pdf viewer and text editor
-- [ ] Use custom tflite model
+- [ ] Use custom tflite model for more accurate handwritting recognition
 - [ ] Add different languages
 ---
