@@ -13,7 +13,7 @@
 
 ---
 **TODO**
-- [x] Working App
+- [x] Bare minimum working app
 - [ ] Refactor
 - [ ] Handle more than one images and documents 
 - [ ] add pdf viewer and text editor
