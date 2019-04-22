@@ -15,7 +15,8 @@
 **TODO**
 - [x] Working App
 - [ ] Refactor
-- [ ] Handle more than one images; 
+- [ ] Handle more than one images and documents 
+- [ ] add pdf viewer and text editor
 - [ ] Use custom tflite model
 - [ ] Add different languages
 ---
