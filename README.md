@@ -34,7 +34,7 @@ WritoText Document Scnner
 ---
 
 
-## Lbraries
+## Libraries
 -------
   - [Polygon View](https://github.com/jhansireddy/AndroidScannerDemo) for cropping  
   - [OpenCV Android v3.1.0](http://opencv.org/platforms/android.html) for capturing and manipulation of images.
