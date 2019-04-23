@@ -1,0 +1,12 @@
+
+esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(Æ¼¾Î
+Usquid:S1905"7Remove this unnecessary cast to "FloatingActionButton".(ÆÒˆ¹8õäÅŠ£-
+Zsquid:S1905"7Remove this unnecessary cast to "FloatingActionButton".(–Öá¦þÿÿÿÿ8õäÅŠ£-
+Jsquid:S1659",Declare "rotateBackward" on a separate line.(œ×œü8—¯Úò¢-
+Isquid:S1659"+Declare "rotateForward" on a separate line.(œ×œü8¨ôÙò¢-
+Hsquid:S1659"%Declare "fab_gal" on a separate line.(·µ’àþÿÿÿÿ8ù×Îò¢-
+vsquid:S00116"RRename this field "fab_cam" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·µ’àþÿÿÿÿ8š¤Îò¢-
+Hsquid:S1659"%Declare "fab_cam" on a separate line.(·µ’àþÿÿÿÿ8š¤Îò¢-
+vsquid:S00116"RRename this field "fab_gal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·µ’àþÿÿÿÿ8ù×Îò¢-
+Dsquid:S1659"&Declare "fabClose" on a separate line.(œ×œü8Œ¯Ùò¢-
+Usquid:S1905"7Remove this unnecessary cast to "FloatingActionButton".(Þ¯†Û8õäÅŠ£-

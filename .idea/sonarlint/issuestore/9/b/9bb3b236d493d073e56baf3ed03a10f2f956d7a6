@@ -1,0 +1,18 @@
+
+<squid:S1659"(Declare "bestHeight" on a separate line.(”°í6
+3squid:S1659"Declare "h" on a separate line.(û¿Št
+3squid:S1659"Declare "h" on a separate line.(¸ŒÊ^
+Rsquid:S1197"8Move the array designator from the variable to the type.(ç‡æ¤ýÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷ªú˜ûÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(µˆ¦‡
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+6squid:S1170"!Make this final field static too.(£¤Ë
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ý
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¨åÖ¦
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ý
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Í–Ñ¬
+gsquid:S00116"QRename this field "LOGTAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¤Ë
