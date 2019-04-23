@@ -26,3 +26,8 @@ Lbraries Used
 -------
   - [***Polygon view taken from here***](https://github.com/jhansireddy/AndroidScannerDemo)
   - ***OpenCV***
+
+
+License
+-------
+  - MIT
