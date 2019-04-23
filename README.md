@@ -20,3 +20,9 @@
 - [ ] Use custom tflite model for more accurate handwritting recognition
 - [ ] Add different languages
 ---
+
+
+Lbraries Used
+-------
+  - [***Polygon view taken from here***](https://github.com/jhansireddy/AndroidScannerDemo)
+  - ***OpenCV***
